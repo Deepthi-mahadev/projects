@@ -1,0 +1,19 @@
+students{
+	margin: 50px;
+	padding: 50px;
+	text-align: center;
+}
+
+student{
+	border: 1px solid black;
+	display: block;
+	font-family: serif;
+	margin: 1%;
+	width: 40%;
+	background-color: #abc;
+}
+
+name,usn,college,branch,year,email{
+	display: block;
+}
+	
